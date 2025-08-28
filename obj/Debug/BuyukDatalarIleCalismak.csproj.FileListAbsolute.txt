@@ -1,0 +1,10 @@
+C:\Users\karne\source\repos\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\bin\Debug\BuyukDatalarIleCalismak.exe.config
+C:\Users\karne\source\repos\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\bin\Debug\BuyukDatalarIleCalismak.exe
+C:\Users\karne\source\repos\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\bin\Debug\BuyukDatalarIleCalismak.pdb
+C:\Users\karne\source\repos\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\obj\Debug\BuyukDatalarIleCalismak.csproj.AssemblyReference.cache
+C:\Users\karne\source\repos\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\obj\Debug\BuyukDatalarIleCalismak.Form1.resources
+C:\Users\karne\source\repos\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\obj\Debug\BuyukDatalarIleCalismak.Properties.Resources.resources
+C:\Users\karne\source\repos\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\obj\Debug\BuyukDatalarIleCalismak.csproj.GenerateResource.cache
+C:\Users\karne\source\repos\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\obj\Debug\BuyukDatalarIleCalismak.csproj.CoreCompileInputs.cache
+C:\Users\karne\source\repos\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\obj\Debug\BuyukDatalarIleCalismak.exe
+C:\Users\karne\source\repos\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\BuyukDatalarIleCalismak\obj\Debug\BuyukDatalarIleCalismak.pdb
